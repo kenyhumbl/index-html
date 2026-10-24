@@ -1,0 +1,73 @@
+index.html
+
+<head>
+
+<title>My Favorite Hobbies and U.S. States</title>
+</head>
+<body>
+
+
+<h2>My Favorite Hobbies</h2>
+
+<ul>
+    <li>Partying</li>
+    <li>Traveling</li>
+    <li>Cooking</li>
+    <li>Real Football</li>
+    <li>Movies</li>
+</ul>
+
+<h2>Five U.S. States</h2>
+
+<ol>
+    <li>
+        Florida
+        <ul>
+            <li>Florida is known for its sunny beaches, world class theme parks,
+                 unique wildlife, rich culture, and diverse outdoor adventures.                
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        Texas
+        <ul>
+            <li>
+                Texas is known foor its large size, diverse culture, and vibrant economy
+                It's also known as the "Lone Star state" and is the second largest state and 
+                most populous state in the U.S. it is also known for its barbecue and live music.
+            </li>
+        </ul>
+    </li>
+
+    <li>
+        California
+        <ul>
+            <li>
+                California is known for Hollywood, beautiful beaches, natioanl parks,
+                Silicon Valley, and its diverse culture.            
+            </li>
+        /ul>
+    </li>
+
+        <li>
+            New York
+        <ul> 
+            <li>
+                New York is known for its iconic skyline, Broadway shows, Central Park,
+                and its status as a global financial and cultural hub.
+                </li>
+            </ul>
+        </li>
+
+            <li>
+
+                Hawaii
+            <ul>
+                <li>
+                Hawaii is known for its stunning beaches, tropical climate, unique culture,
+                and its status as a popular tourist destination. It is also known for its
+                volcanoes and diverse marine life.
+                </li>
+            /ul>
+        </li>
