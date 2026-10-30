@@ -1,0 +1,50 @@
+<!Doctype html>
+<html>
+<head>
+    
+      
+      <title>Customer Food Order Form</title>
+</head>
+<body>
+
+<h1>Please fill out the form below</h1>
+
+<form>
+
+      
+      <label for=First Name:</label>
+      <input type="text" placeholder="firstName" required>
+
+      <br><br>
+
+      
+      <label>Last Name:</label>
+      <input type="text" placeholder="Last Name">
+
+      <br><br>
+
+      
+      <label>which food would you like to eat?</label>
+      <select id="food" name="food">
+        <option value="Tilapia">Tilapia</option>
+        <option value="Lamb">Lamb</option>
+        <option value="Beef">Beef</option>
+      </select>
+
+      <br><br>
+
+      <!-- Allergy Information -->
+      <label for="allergies">Allergy Information:</label>
+      <br>  
+      <textarea id="allergies" name="allergies" rows="4" cols="30"
+      placeholder="Enter any food allergies here..."></textarea>
+
+      <br><br>
+
+      <!-- Submit Button -->
+      <button type="submit">Send</button>
+
+    </form>
+
+  </body>
+  </html>  
